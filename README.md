@@ -16,6 +16,7 @@ The following libraries are required to read the sensor and control the LCD scre
 
 # Connections
 DS18B20 - Power to 5V pin, Ground to GND and data to Digital Pin 5
+
 LCD Screen - Power to 5V pin, Ground to GND, SCL to SCL and SDA to SDA
 
 Upload the sketch and BOOM! one honest to goodness digital thermometer.
